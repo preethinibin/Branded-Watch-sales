@@ -1,0 +1,48 @@
+Power BI Project – Interactive Business Dashboard
+📌 Overview
+
+This project showcases the use of Power BI to transform raw data into meaningful, interactive dashboards. The focus is on providing decision-makers with clear insights into business performance, customer behavior, and growth trends.
+
+🎯 Objective
+
+Convert raw datasets into structured, actionable insights
+
+Create KPIs for tracking sales, revenue, and performance
+
+Provide drill-down analysis for managers and analysts
+
+Support data-driven decision-making through visualization
+
+📊 Key Features
+
+Data Cleaning & Modeling – Prepared data with Power Query and built relationships across multiple datasets
+
+Dynamic KPIs – Created DAX measures for growth %, margins, and year-over-year comparisons
+
+Interactive Dashboard – Drill-downs, slicers, and filters for deeper analysis
+
+Actionable Insights – Identify top products, underperforming regions, and customer patterns
+
+User-Centric Design – Clear, simple visuals for executives and detailed metrics for analysts
+
+🛠️ Tools & Technologies
+
+Power BI – Dashboard creation and visualization
+
+Excel – Initial data preparation
+
+SQL – Data querying and structuring
+
+DAX – Custom measures and calculations
+
+🚀 Outcomes
+
+Simplified reporting for stakeholders
+
+Enhanced decision-making with real-time insights
+
+Scalable dashboard adaptable for different business functions
+
+📂 Project Type
+
+Business Intelligence | Data Visualization | Analytics
